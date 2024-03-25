@@ -5,7 +5,7 @@
 Calculating the following Atomic positions using the calculation rules (formula) below.
 
 
-**_Data URL: _**
+**_Data URL:_**
 
 https://aflowlib.duke.edu/AFLOWDATA/ICSD_WEB/ORC/Ge1S1_ICSD_637785/CONTCAR.relax.qe
 
