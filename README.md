@@ -5,6 +5,12 @@ _Developer    :_ Fatih Somer
 Calculating the following Atomic positions using the calculation rules below.
 
 
+_Data URL: _
+
+https://aflowlib.duke.edu/AFLOWDATA/ICSD_WEB/ORC/Ge1S1_ICSD_637785/CONTCAR.relax.qe
+
+
+
 ATOMIC_POSITIONS (crystal)
   Ge      0.75000000000000   0.87034059292753   0.12394235514410  ! // Ge 
   Ge      0.25000000000000   0.37033952210516   0.37605683029149  ! // Ge 
