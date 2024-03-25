@@ -33,7 +33,7 @@ Atomic Positions calculation rules:
 
 first row  -> X/2, Y/2, Z
 
-second row  -> X/2+0.5, Y/2, Z
+second row -> X/2+0.5, Y/2, Z
 
 third row  -> X/2, Y/2+0.5, Z
 
