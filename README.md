@@ -1,7 +1,8 @@
-Project Lead : Mehmet Erdem
-Developer    : Fatih Somer
+_Project Lead :_ Mehmet Erdem
 
-Calculating following Atomic positions using below calculation rules.
+_Developer    :_ Fatih Somer
+
+Calculating the following Atomic positions using the calculation rules below.
 
 
 ATOMIC_POSITIONS (crystal)
