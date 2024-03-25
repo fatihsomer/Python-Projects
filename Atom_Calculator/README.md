@@ -2,7 +2,7 @@ _Project Lead :_ Mehmet Erdem
 
 _Developer    :_ Fatih Somer (Got Help from Copliot AI)
 
-Calculating the following Atomic positions using the calculation rules below.
+Calculating the following Atomic positions using the calculation rules (formula) below.
 
 
 _Data URL: _
