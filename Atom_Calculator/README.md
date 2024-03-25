@@ -29,8 +29,8 @@ CELL_PARAMETERS (angstrom)
 
 
 
-Atomic Positions calculation rules:
---------------------------------------
+Atomic Positions calculation rules (formulas):
+----------------------------------------------
 
 first block  -> X/2, Y/2, Z
 
@@ -42,8 +42,8 @@ fourth block -> X/2+0.5, Y/2+0.5, Z
 
 
 
-Cell Parameters calculation rules:
---------------------------------------
+Cell Parameters calculation rules (formulas):
+---------------------------------------------
 
 first row  -> 2*X, 2*Y, 2*Z
 
