@@ -1,15 +1,16 @@
-_Project Lead :_ Mehmet Erdem
+**_Project Lead :_** Mehmet Erdem
 
-_Developer    :_ Fatih Somer (Got Help from Copliot AI)
+**_Developer    :**_ Fatih Somer (Got Help from Copliot AI)
 
 Calculating the following Atomic positions using the calculation rules (formula) below.
 
 
-_Data URL: _
+**_Data URL: _**
 
 https://aflowlib.duke.edu/AFLOWDATA/ICSD_WEB/ORC/Ge1S1_ICSD_637785/CONTCAR.relax.qe
 
 
+**_Source Datas:_**
 
 ATOMIC_POSITIONS (crystal)
   Ge      0.75000000000000   0.87034059292753   0.12394235514410  ! // Ge 
@@ -49,3 +50,10 @@ first row  -> 2*X, 2*Y, 2*Z
 second row -> 2*X, 2*Y, 2*Z
 
 third row  -> X, Y, Z
+
+
+
+**_Result Datas:_**
+
+
+Result.txt
