@@ -31,13 +31,13 @@ CELL_PARAMETERS (angstrom)
 Atomic Positions calculation rules:
 --------------------------------------
 
-first row  -> X/2, Y/2, Z
+first block  -> X/2, Y/2, Z
 
-second row -> X/2+0.5, Y/2, Z
+second block -> X/2+0.5, Y/2, Z
 
-third row  -> X/2, Y/2+0.5, Z
+third block  -> X/2, Y/2+0.5, Z
 
-fourth row -> X/2+0.5, Y/2+0.5, Z
+fourth block -> X/2+0.5, Y/2+0.5, Z
 
 
 
